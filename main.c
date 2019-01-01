@@ -59,7 +59,7 @@ int main() {
     printf("%14s\t%10ld\t%38s\n", "  ru_majflt:",   usage.ru_majflt,  "/*   page faults                  */" );
     printf("%14s\t%10ld\t%38s\n", "  ru_nswap:",    usage.ru_nswap,   "/*   swaps                        */" );
     printf("%14s\t%10ld\t%38s\n", "  ru_inblock:",  usage.ru_inblock, "/*   block input operations       */" );
-    printf("%14s\t%10ld\t%38s\n", "  ru)oublock:",  usage.ru_oublock, "/*   block output operations      */" );
+    printf("%14s\t%10ld\t%38s\n", "  ru_oublock:",  usage.ru_oublock, "/*   block output operations      */" );
     printf("%14s\t%10ld\t%38s\n", "  ru_msgsnd:",   usage.ru_msgsnd,  "/*   messages sent                */" );
     printf("%14s\t%10ld\t%38s\n", "  ru_msgrcv:",   usage.ru_msgrcv,  "/*   messages received            */" );
     printf("%14s\t%10ld\t%38s\n", "  ru_nsignals:", usage.ru_nsignals,"/*   signals received             */" );
