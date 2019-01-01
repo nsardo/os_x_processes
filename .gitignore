@@ -3,6 +3,17 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+/cmake-build-release/CMakeFiles
+/cmake-build-release/*.cbp
+/cmake-build-release/*.txt
+/cmake-build-release/*.cmake
+/cmake-build-release/Makefile
+
+/cmake-build-debug/CMakeFiles
+/cmake-build-debug/*.cbp
+/cmake-build-debug/*.txt
+/cmake-build-debug/*.cmake
+/cmake-build-debug/Makefile
 
 # Icon must end with two \r
 Icon
