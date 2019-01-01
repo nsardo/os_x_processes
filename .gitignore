@@ -3,6 +3,10 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+
+.idea/*
+
+
 /cmake-build-release/CMakeFiles
 /cmake-build-release/*.cbp
 /cmake-build-release/*.txt
