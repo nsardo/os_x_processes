@@ -14,4 +14,4 @@ Simply open a terminal into that directory and enter:
   
 ###EXAMPLE OUTPUT:
 
-[View Screen Shot](./ScreenShot.png)
+![View Screen Shot](./ScreenShot.png)
